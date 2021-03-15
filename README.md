@@ -1,7 +1,6 @@
 # AWS CDK Example (Python)
 
 # Dev tools:
-
 aws cli
 aws account
 cdk cli
