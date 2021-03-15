@@ -1,9 +1,8 @@
-# AWS CDK Example (Python)
-
 # Dev tools:
-aws cli
-aws account
-cdk cli
+
+aws cli  
+aws account  
+cdk cli  
 python3
 
 npm install -g aws-cdk
