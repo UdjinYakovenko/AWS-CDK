@@ -13,8 +13,8 @@ pip install --upgrade aws-cdk.core
 pip install awscli
 aws --version
 
-$ aws configure
-AWS Access Key ID [****************Y7HQ]:
-AWS Secret Access Key [****************rkr0]:
-Default region name [cn-northwest-1]:
-Default output format [text]:
+$ aws configure  
+AWS Access Key ID [****************FJHD]:  
+AWS Secret Access Key [****************"DLSKP"*]:  
+Default region name [cn-northwest-1]:  
+Default output format [text]:  
